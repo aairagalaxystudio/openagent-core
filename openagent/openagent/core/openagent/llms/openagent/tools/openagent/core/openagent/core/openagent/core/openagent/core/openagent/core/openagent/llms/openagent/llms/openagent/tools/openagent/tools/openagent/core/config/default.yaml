@@ -1,0 +1,9 @@
+llm:
+  provider: ollama
+  model: mistral
+
+agent:
+  max_steps: 5
+
+tools:
+  - calculator
